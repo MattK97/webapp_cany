@@ -1,2 +1,2 @@
-WebApp made with vue and vuetify
-"# webapp_cany" 
+# WebAppCany
+Test Web App Project in Vue.js and Vuetify
